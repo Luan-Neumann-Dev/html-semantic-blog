@@ -1,52 +1,81 @@
-<h1 align='center'>
-✈️ Semantic-Blog
-</h1>
+# HTML Semantic Blog
 
-![foto_completa_semantic_blog](https://github.com/user-attachments/assets/01300fe2-4563-4981-944e-7966694318d8)
+> A simple blog layout created to practice semantic HTML structure and clean webpage organization.
 
-<h4 align='center'>
-<a href='https://semantic-blog.vercel.app/'>Click here to view the project</a>
-</h4>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
->Semantic Blog is a fully responsive blog built with HTML and CSS, designed for sharing travel adventures.
+![Project Preview](https://github.com/user-attachments/assets/01300fe2-4563-4981-944e-7966694318d8)
 
-## 💼 Technologies Used
-- HTML
-- CSS
+## 🎯 About
 
-## 🏃 How to Run the Project
+This project was created to practice **semantic HTML elements** and proper webpage structure.
 
-To run the project locally, follow these instructions:
+The page simulates a simple blog layout using semantic tags such as `header`, `nav`, `main`, `section`, `article`, and `footer`.  
+The goal was to improve my understanding of **accessible and well-structured HTML markup**.
 
-1. **Clone** this repository on Visual Studio Code
+## ✨ Features
 
+- 🧱 **Semantic HTML Structure** – Uses proper HTML5 semantic elements
+- 📰 **Blog Layout** – Simulated blog post structure
+- 🎨 **Basic Styling** – Simple CSS styling for layout and readability
+- 📚 **Learning Project** – Focused on improving HTML best practices
+
+## 🛠️ Built With
+
+- **HTML5** – Semantic structure and page organization  
+- **CSS3** – Basic styling and layout adjustments  
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- A modern web browser (Chrome, Firefox, Safari, Edge)
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Luan-Neumann-Dev/html-semantic-blog.git
+
+# Navigate to project directory
+cd html-semantic-blog
 ```
-git clone <https://github.com/Luan-Neumann-Dev/Semantic-Blog.git>
+Then open the `index.html` file in your browser.
 
+## 📁 Project Structure
+
+```bash
+html-semantic-blog/
+├── index.html        # Main page with semantic HTML structure
+├── style.css         # Page styling
+└── img/              # Images used in the layout
 ```
 
-2. **Open** the index.html file to see the project in action! 🌟
+## 🎓 What I Learned
 
-## Contributions 🤝
+- How to use HTML5 semantic elements
+- Structuring content for better readability and accessibility
+- Organizing simple frontend projects
+- Creating a basic blog-style layout
 
-Contributions are welcome! If you have suggestions for improvements or find any issues, please feel free to open an issue or submit a pull request.
+## 📝 Notes
 
-<h2> 🙋 Author  </h2>
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/Luan-Neumann-Dev">
-<img src="https://avatars.githubusercontent.com/u/155394874?s=400&u=9694d36eda852061b89679e4da99e37e8c22c7ab&v=4" width="100px;" alt="Foto do Luan no GitHub"/><br>
-<sub>
-<b>Luan Neumann Dev</b>
-</sub>
-</a>
-</td>
-</tr>
-</table>
+- This is a beginner educational project
+- Created to practice semantic HTML best practices
+- No frameworks or JavaScript were used
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+## 👤 Author
+
+**Luan Neumann**
+
+- LinkedIn: [Luan-Neumann-Dev](https://www.linkedin.com/in/luan-henrique-neumann-dev/)
+- GitHub: [@luan-neumann-dev](https://github.com/Luan-Neumann-Dev)
 
 ---
-<a href="www.linkedin.com/in/luan-henrique-neumann-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Luan-Neumann-Dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/luanneumann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:luan.neumann.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+⭐ If you enjoyed this project, consider giving it a star!
